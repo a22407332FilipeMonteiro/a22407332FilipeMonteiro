@@ -11,9 +11,8 @@
 ### 🧑‍💻 About me
 
 - 🎓 Computer Engineering student
-- 🔭 Currently focused on **software development** and **open source contributions**
+- 🔭 Currently focused on **software development**, **open source contributions** and **networking**
 - 🌱 Always learning — I love diving into new projects and different languages
-- ☕ Big fan of good coffee while debugging code
 
 ---
 
