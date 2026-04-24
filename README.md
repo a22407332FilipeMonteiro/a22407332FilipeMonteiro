@@ -55,7 +55,7 @@ I enjoy contributing to real-world projects and learning from code reviews by ex
 
 - **[RustFS](https://github.com/rustfs/rustfs)** — Distributed object storage system written in Rust (MinIO alternative). I implemented the Kafka target for the event notification system, including integration into the `rustfs-notify` and `rustfs-audit` modules. [PR merged ✅](https://github.com/rustfs/rustfs/pull/2615)
 
-- **[DropProject](https://github.com/drop-project-edu/drop-project)** — Educational platform for submitting and auto-grading programming assignments. Fixed a bug where validation indicators weren't showing up in the report for submissions with invalid project structure, and also helped solve a locale-related issue affecting the test suite.
+- **[DropProject](https://github.com/drop-project-edu/drop-project)** — Educational platform for submitting and auto-grading programming assignments. Fixed a bug where validation indicators weren't showing up in the report for submissions with invalid project structure, and also helped solve a locale-related issue affecting the test suite. [PR merged ✅](https://github.com/drop-project-edu/drop-project/pull/119)
 
 ---
 
